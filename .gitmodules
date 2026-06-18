@@ -1,0 +1,18 @@
+[submodule "default/.config/quickshell/ii/modules/common/widgets/shapes"]
+	path = default/default/.config/quickshell/ii/modules/common/widgets/shapes
+	url = https://github.com/end-4/rounded-polygon-qmljs.git
+[submodule "default/.config/oh-my-/zsh/default"]
+	path = default/default/.config/oh-my-/zsh/default
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "default/.config/oh-my-/zsh/custom/plugins/zsh-autosuggestions"]
+	path = default/default/.config/oh-my-/zsh/custom/plugins/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions.git
+[submodule "default/.config/oh-my-/zsh/custom/plugins/zsh-syntax-highlighting"]
+	path = default/default/.config/oh-my-/zsh/custom/plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
+[submodule "default/.config/oh-my-/tmux/default"]
+	path = default/default/.config/oh-my-/tmux/default
+	url = https://github.com/gpakosz/.tmux.git
+[submodule "default/.config/oh-my-/tmux/custom/plugins/gitmux"]
+	path = default/default/.config/oh-my-/tmux/custom/plugins/gitmux
+	url = https://github.com/arl/gitmux.git
